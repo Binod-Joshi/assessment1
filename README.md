@@ -1,4 +1,4 @@
-# User CRUD operation.
+# Frontend Dashboard.
 
 This is simple frontend dashboard.
 
