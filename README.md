@@ -1,11 +1,11 @@
 # User CRUD operation.
 
-This is simple frontend.
+This is simple frontend dashboard.
 
 ## Installation
 
 ```bash
-https://github.com/Binod-Joshi/assessment.git
+https://github.com/Binod-Joshi/assessment1.git
 ```
 
 Open terminal
